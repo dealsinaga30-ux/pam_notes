@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26823616488",
+    "project_id": "pam-notes-42325045",
+    "storage_bucket": "pam-notes-42325045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26823616488:android:fa338a54848a9a7fb9265d",
+        "android_client_info": {
+          "package_name": "del.ac.id.pam_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26823616488-omntnc3kcbagp6ipvu4hprrjhkah7r41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "del.ac.id.pam_notes",
+            "certificate_hash": "75118baeac7521d9cb50dd1656f2ab45d3170292"
+          }
+        },
+        {
+          "client_id": "26823616488-e90tnlbe4r3pesvdt13qo0tu65b6bfqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauWjDMY3Gvb0fvvN6H8MwUy4en8lxzOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26823616488-e90tnlbe4r3pesvdt13qo0tu65b6bfqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
